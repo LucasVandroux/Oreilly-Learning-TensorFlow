@@ -3,6 +3,10 @@
 Created on Tue Dec 20 17:34:43 2016
 
 @author: tomhope
+
+cmd to use tensorflow: 
+   tensorboard --logdir=logsNN_with_summaries --port=9998 --host=166.111.80.160
+
 """
 from __future__ import print_function
 import tensorflow as tf
